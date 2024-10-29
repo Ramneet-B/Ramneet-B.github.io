@@ -9,6 +9,12 @@ body{
     margin-left: 20px; /* Moves all content inside .body slightly to the right */
     padding: 10px;     /* Adds additional padding for spacing */
 }
+.profile-photo{
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+    margin-top: 10px;
+}
 .contact-info{
     display: flex;
     justify-content: center;
